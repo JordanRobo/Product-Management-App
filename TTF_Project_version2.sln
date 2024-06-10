@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTF_Project_version2", "TTF_Project_version2\TTF_Project_version2.csproj", "{E02E4449-E610-419C-AFF9-BAF73350A5E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit_Test_TTF_App", "Unit_Test_TTF_App\Unit_Test_TTF_App.csproj", "{12178EBB-F775-48E6-B0EC-520A78DA1D5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E02E4449-E610-419C-AFF9-BAF73350A5E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02E4449-E610-419C-AFF9-BAF73350A5E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E02E4449-E610-419C-AFF9-BAF73350A5E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E02E4449-E610-419C-AFF9-BAF73350A5E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12178EBB-F775-48E6-B0EC-520A78DA1D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12178EBB-F775-48E6-B0EC-520A78DA1D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12178EBB-F775-48E6-B0EC-520A78DA1D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E99D082-117D-4B69-A906-CAE369A84AAB}
+	EndGlobalSection
+EndGlobal
